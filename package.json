@@ -7,7 +7,7 @@
   },
   "description": "",
   "dependencies": {
-    "debug": "1.0.2",
+    "debug": "2.6.7",
     "socket.io-parser": "2.2.1",
     "object-keys": "1.0.1"
   }
